@@ -11,7 +11,6 @@ Exploratory credit risk analysis using SQL to identify default patterns and cate
 ### Technical Skills
 - **SQL** - Complex queries with window functions, subqueries, and aggregations
 - **Data Analysis** - Statistical analysis and pattern identification in financial datasets
-- **Python** - Data manipulation and processing with Pandas
 - **Data Visualization** - Dashboard creation for insights communication
 
 ### Domain Knowledge
