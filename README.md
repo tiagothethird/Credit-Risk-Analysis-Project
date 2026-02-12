@@ -219,6 +219,3 @@ The 0.8% at high risk may seem irrelevant, but in a multi-million portfolio, the
 
 This project demonstrates how **well-structured SQL** and **business-focused data analysis** can transform raw data into concrete strategic decisions. The combination of analytical techniques (window functions, subqueries, aggregations) with domain knowledge (credit risk, financial ratios) is what differentiates descriptive analysis from actionable analysis.
 
----
-
-**"In God we trust. All others must bring data."** - W. Edwards Deming
