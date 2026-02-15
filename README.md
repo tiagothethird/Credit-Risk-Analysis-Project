@@ -2,7 +2,7 @@
 
 ## 🎯 Project Overview
 
-Exploratory credit risk analysis using SQL to identify default patterns and categorize borrowers based on financial indicators such as loan-to-income ratio.
+This project performs an exploratory credit risk analysis on a financial lending dataset to uncover patterns associated with borrower defaults and financial behavior. The primary aim is to understand key factors that influence credit risk and to categorize borrowers based on risk indicators such as loan amount, interest rate, credit history, and debt burden. Using advanced SQL queries and statistical analysis, this work provides meaningful insights into default patterns and highlights relationships between borrower financial characteristics and credit outcomes.
 
 ---
 
@@ -36,6 +36,9 @@ ORDER BY loan_grade;
 ```
 
 **📊 Chart Insights:**
+
+<img width="654" height="546" alt="Average funded loan amount and interest rate by risk grade" src="https://github.com/user-attachments/assets/6ad6eafb-e9ec-42f6-bf71-2400f88ab338" />
+
 
 The dashboard reveals a **direct correlation between risk and cost of credit**. We observe that:
 
