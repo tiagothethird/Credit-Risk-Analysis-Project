@@ -37,8 +37,6 @@ ORDER BY loan_grade;
 
 **📊 Chart Insights:**
 
-<img width="654" height="546" alt="Average funded loan amount and interest rate by risk grade" src="https://github.com/user-attachments/assets/6ad6eafb-e9ec-42f6-bf71-2400f88ab338" />
-
 
 The dashboard reveals a **direct correlation between risk and cost of credit**. We observe that:
 
