@@ -32,9 +32,9 @@ This analysis addresses five critical business questions that drive credit risk 
 
 --------------------------------------------------------------------------------------------------------------
 
-### 📊 Key Findings & Visualizations
+## 📊 Key Findings & Visualizations
 
-## 1️⃣ Average Loan Amount and Interest Rate by Risk Grade
+### 1️⃣ Average Loan Amount and Interest Rate by Risk Grade
 
 ![Loan Amount and Interest Rate by Grade](./images/chart1.png)
 
