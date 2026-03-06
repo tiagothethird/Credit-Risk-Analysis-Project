@@ -59,16 +59,63 @@ The analysis shows a **clear risk-pricing relationship** across loan grades A th
 - **Business Strategy:** Lenders offset increased default risk with substantially higher rates rather than reducing loan sizes
 - **Market Implication:** This suggests a strategy of serving higher-risk segments with premium pricing rather than exclusion
 
-**Strategic Recommendation:** While this pricing model compensates for risk, Grade F and G loans warrant enhanced monitoring given their elevated exposure and rates.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
+### 2️⃣ Top 10 Borrowers with Longest Credit History Who Defaulted
+
+**Analysis Summary:**
+
+This segment challenges the conventional wisdom that **credit history length = creditworthiness**. Among defaulted borrowers, the top 10 have credit histories ranging from 15 to 30+ years, yet still failed to repay.
+
+**Critical Insights:**
+- **Experience ≠ Reliability:** Long credit history alone is an insufficient predictor of repayment
+- **Life Events Matter:** Extended credit histories may not reflect recent financial disruptions (job loss, medical emergencies, business failures)
+- **Model Weakness:** Credit scoring systems heavily weighted toward history length may miss real-time risk signals
+
+**What This Means for Risk Models:**
+
+Traditional scoring models need augmentation with:
+- **Recent payment velocity** - Changes in payment patterns over the last 6-12 months
+- **Income stability indicators** - Employment tenure and income consistency
+- **Debt-to-income trajectory** - Rising leverage despite long history
+- **Behavioral triggers** - New credit seeking, missed payments, balance increases
+
+**Actionable Recommendation:** Implement **dynamic risk scoring** that weights recent behavior (last 12-24 months) more heavily than distant credit history, especially for borrowers with 10+ year histories.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+### 3️⃣ Distribution Across Age Groups
+
+<img width="721" height="368" alt="Total Loan Amount by Person Age" src="https://github.com/user-attachments/assets/a312ca00-de5e-46e5-80e6-7af7948c6303" />
 
 
+**Demographic Analysis:**
 
+The dataset shows a **concentrated young borrower base**:
 
+- **Peak Borrowing Age:** 25-30 years (highest loan volume)
+- **Average Borrower Age:** 27.7 years
+- **Age Distribution:** Heavily skewed toward millennials and early Gen Z
+- **Outliers Present:** Some borrowers up to age 80, indicating diverse portfolio
 
+**Age-Related Insights:**
+
+**Why Younger Borrowers Dominate:**
+- Early career financing needs (education, first home, transportation)
+- Lower income requiring credit for major purchases
+- Building credit history through smaller loans
+
+**Risk Considerations by Age Bracket:**
+- **20-25 years:** Higher default risk due to income instability, offset by smaller loan amounts
+- **25-35 years:** Sweet spot - growing income, moderate risk, willing to pay premium rates
+- **35-50 years:** Lower volume but potentially larger individual loans
+- **50+ years:** Minimal representation, suggesting either established wealth or different financing channels
+
+**Strategic Opportunity:** The 25-30 age cohort represents a **growth engine**. Targeted products (career starter loans, apartment furnishing credit, vehicle financing) could expand this segment while maintaining healthy risk profiles.
+
+---
 
 
 
