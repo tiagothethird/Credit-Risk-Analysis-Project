@@ -10,6 +10,7 @@ FROM credit_risk
 GROUP BY loan_grade 
 ORDER BY loan_grade;
 ```
+- This SQL query calculates and rounds to the nearest whole number both the average loan amount and the average interest rate across all records in the credit_risk table, groups the results by each distinct loan grade (used as the loan category, typically A to G), and finally sorts the output in ascending order by loan grade so you can easily compare risk levels from the safest (A) to the riskiest (G) categories in a single, clean result set.
 
 ### 2️⃣ **Top 10 borrowers with the longest credit history who defaulted**
 
