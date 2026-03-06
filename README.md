@@ -36,7 +36,8 @@ This analysis addresses five critical business questions that drive credit risk 
 
 ### 1️⃣ Average Loan Amount and Interest Rate by Risk Grade
 
-![Loan Amount and Interest Rate by Grade](./images/chart1.png)
+<img width="654" height="546" alt="Average funded loan amount and interest rate by risk grade" src="https://github.com/user-attachments/assets/208c8387-2395-4810-aa33-6def3e8044b9" />
+
 
 **What the data reveals:**
 
