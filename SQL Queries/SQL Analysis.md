@@ -11,7 +11,7 @@ GROUP BY loan_grade
 ORDER BY loan_grade;
 ```
 
-2️⃣ **Top 10 borrowers with the longest credit history who defaulted**
+### 2️⃣ **Top 10 borrowers with the longest credit history who defaulted**
 
 **SQL Query:**
 ```sql
@@ -22,7 +22,7 @@ ORDER BY cb_person_cred_hist_length DESC
 LIMIT 10;
 ```
 
-3️⃣ **Top 5 borrowers with highest loan amounts within each loan intent category**
+### 3️⃣ **Top 5 borrowers with highest loan amounts within each loan intent category**
 
 **SQL Query:**
 ```sql
@@ -49,7 +49,7 @@ WHERE rn <= 5
 ORDER BY loan_intent, loan_amnt DESC;
 ```
 
-4️⃣ **Borrowers whose loan amount is higher than the average of defaulted borrowers**
+### 4️⃣ **Borrowers whose loan amount is higher than the average of defaulted borrowers**
 
 **SQL Query:**
 ```sql
@@ -62,7 +62,7 @@ WHERE loan_amnt > (
 );
 ```
 
-5️⃣ **Risk categorization based on Loan-to-Income Ratio**
+### 5️⃣ **Risk categorization based on Loan-to-Income Ratio**
 
 **SQL Query:**
 ```sql
