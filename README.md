@@ -115,94 +115,114 @@ The dataset shows a **concentrated young borrower base**:
 
 **Strategic Opportunity:** The 25-30 age cohort represents a **growth engine**. Targeted products (career starter loans, apartment furnishing credit, vehicle financing) could expand this segment while maintaining healthy risk profiles.
 
----
+----------------------------------------------------------------------------------------------------------------------------------
+
+### 4️⃣ Top 5 Highest Loan Amounts per Intent Category
+
+**Segmentation Analysis by Loan Purpose:**
+
+The analysis reveals distinct borrowing patterns across six primary loan intents, with the top 5 borrowers per category showing:
+
+**By Loan Intent Category:**
+
+| Intent Category | Top Loan Range | Typical Income Range | Common Risk Grade |
+|-----------------|----------------|----------------------|-------------------|
+| **DEBTCONSOLIDATION** | $25,000 - $35,000 | $75K - $120K | C - E |
+| **EDUCATION** | $15,000 - $25,000 | $40K - $80K | B - D |
+| **HOMEIMPROVEMENT** | $20,000 - $30,000 | $85K - $150K | B - D |
+| **MEDICAL** | $12,000 - $20,000 | $50K - $90K | C - E |
+| **PERSONAL** | $18,000 - $28,000 | $60K - $100K | C - E |
+| **VENTURE** | $30,000 - $35,000 | $100K - $200K | D - F |
+
+**Critical Findings:**
+
+1. **Debt Consolidation Dominates:** Consistently shows highest individual loan amounts, indicating borrowers refinancing multiple obligations
+2. **Venture Loans = Highest Risk:** Business/entrepreneurial loans command premium amounts but also highest grades (D-F)
+3. **Medical Loans Underserved:** Despite critical need, medical loans show lower amounts, suggesting potential market gap
+4. **Income Correlation Varies:** Education loans show weaker income correlation, likely due to future earnings potential consideration
+
+**Business Applications:**
+
+- **Targeted Marketing:** Different messaging and product features per intent category
+- **Risk-Adjusted Pricing:** Venture and debt consolidation loans warrant higher rates and stricter underwriting
+- **Cross-Sell Opportunities:** Education borrowers may graduate to home improvement → mortgage pipeline
+- **Portfolio Diversification:** Intent-based allocation helps balance risk exposure
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 5️⃣ Debt-to-Income Distribution by Home Ownership
+
+<img width="689" height="379" alt="Debt-to-income Distribution by Home Ownership" src="https://github.com/user-attachments/assets/1df3726f-5edd-4816-864b-4f26e2171d03" />
 
 
+**Home Ownership as Risk Indicator:**
 
+The donut chart reveals how **home ownership status correlates with debt capacity:**
 
+**Distribution Breakdown:**
+- 🏠 **RENT:** 54.56% 
+- 🏡 **MORTGAGE:** 36.73%  
+- 💰 **OWN:** 8.35% 
+- 🏘️ **OTHER:** 0.36% 
 
+**Risk Profile Analysis:**
 
+**RENT (54.56%) - Flexibility with Higher Risk:**
+- **Pros:** More disposable income (no mortgage), flexible relocation
+- **Cons:** Less stable, no equity cushion, potential housing cost volatility
+- **Risk Factor:** Medium - lacks collateral but has income flexibility
+- **Strategy:** Focus on income stability and employment verification
 
+**MORTGAGE (36.73%) - Balanced Profile:**
+- **Pros:** Established responsibility, building equity, stable residence
+- **Cons:** Dual debt burden (mortgage + new loan), less cash flexibility
+- **Risk Factor:** Medium-Low - proven payment discipline, but stretched capacity
+- **Strategy:** Carefully assess total debt service ratio (mortgage + loan)
 
+**OWN (8.35%) - Premium Borrowers:**
+- **Pros:** Highest stability, significant equity available, lowest housing burden
+- **Cons:** Often older demographic, may be approaching retirement
+- **Risk Factor:** Lowest - strong financial position
+- **Strategy:** Upsell opportunities for larger loans at competitive rates
 
+**Strategic Implications:**
 
+1. **Pricing Differentiation:** Homeowners (MORTGAGE + OWN = 30.17%) could qualify for rate reductions due to lower risk
+2. **Product Customization:** Renters might benefit from shorter-term, smaller loans to preserve flexibility
+3. **Equity Line Opportunity:** Homeowners could be offered secured lines of credit at better terms
+4. **Market Share:** 70% renter composition suggests opportunity to develop renter-specific products
 
+---------------------------------------------------------------------------------------------------------------
 
+## 6️⃣ Risk Categorization Based on Loan-to-Income Ratio
 
+**Portfolio Risk Distribution:**
 
+Based on loan-to-income ratio thresholds:
+- 🟢 **Low Risk (≤25%):** 22,568 borrowers (78.8%)
+- 🟡 **Medium Risk (25-50%):** 5,846 borrowers (20.4%)
+- 🔴 **High Risk (>50%):** 217 borrowers (0.8%)
 
+**Deep Dive into Risk Segments:**
 
+**Low Risk Segment (78.8%) - Portfolio Foundation:**
+- **Characteristics:** Loan payments consume ≤25% of monthly income
+- **Financial Cushion:** Strong ability to handle unexpected expenses
+- **Default Probability:** Minimal under normal economic conditions
+- **Opportunity:** Under-leveraged segment - eligible for additional products
+- **Strategy:** Target for upselling (credit cards, investment products, insurance)
 
+**Medium Risk Segment (20.4%) - Attention Required:**
+- **Characteristics:** Loan payments consume 25-50% of monthly income
+- **Vulnerability:** Susceptible to income shocks or expense increases
+- **Management Need:** Regular monitoring, proactive outreach during economic stress
+- **Warning Zone:** Close to debt distress threshold
+- **Strategy:** Implement early warning systems, offer financial counseling, payment flexibility options
 
+**High Risk Segment (0.8%) - Critical Monitoring:**
+- **Characteristics:** Loan payments exceed 50% of monthly income
+- **Severity:** High probability of payment difficulties
+- **Volume Impact:** Only 217 borrowers but disproportionate potential loss
+- **Common Causes:** Emergency loans, income reduction post-approval, optimistic income projections
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-**🎯 Key Findings:**
-
-1. **The vast majority maintains healthy debt levels**: Almost 80% of borrowers commit less than 25% of their income to the loan
-
-2. **Attention zone**: The 20% in medium risk represents a significant volume that deserves specific monitoring policies
-
-3. **Extreme cases are rare but critical**: Only 217 people (0.8%) are at high risk, but these cases can represent **disproportionate losses** if not properly managed
-
-4. **Upsell opportunity**: Low-risk borrowers with good payment capacity may be eligible for additional financial products
-
----
-
-## 🔑 Key Insights & Conclusions
-
-### 💼 For Risk Management
-
-**1. Risk and Price go hand in hand**  
-The analysis confirms that the market correctly prices risk: higher grades pay up to **3x more interest** than lower grades. This is healthy but requires constant monitoring to avoid predatory lending.
-
-**2. History isn't everything**  
-Finding defaulters with long credit history shows that **models need to be multidimensional**. Variables like recent income changes, current loan-to-income, and loan purpose are equally important.
-
-**3. Risk concentration**  
-Identifying loans above the default average allows creating **preventive mitigation strategies**, such as larger capital reserves for this portfolio.
-
-### 📊 For Business Strategy
-
-**1. Segmentation is fundamental**  
-Different loan intents have different risk profiles and average ticket sizes. A "one-size-fits-all" approach leaves money on the table.
-
-**2. Healthy base**  
-With 78.8% of the portfolio at low risk, there's **structural solidity**, but also opportunity to grow in medium-risk segments with proper pricing.
-
-**3. Exceptions deserve attention**  
-The 0.8% at high risk may seem irrelevant, but in a multi-million portfolio, they represent **material exposure** that justifies specific collection and recovery processes.
-
-### 🚀 Suggested Next Steps
-
-1. **Temporal analysis**: Investigate how default rates vary over time and identify seasonality
-2. **Predictive model**: Use identified patterns to train a machine learning default prediction model
-3. **Vintage analysis**: Evaluate loan cohort performance by origination period
-4. **Stress testing**: Simulate adverse economic scenarios and their impact on the portfolio
-
----
-
-## 📁 Project Files
-
-- `credit_analysis_risk.csv` - Dataset with 28,631 loan records
-- `credit_analysis.sql` - SQL queries for exploratory analysis
-- `Credit_Risk_Analysis.docx` - Business questions documentation
-- `Credit_Risk_DASHBOARD.pdf` - Visualizations and insight charts
-
----
-
-## 🙏 Acknowledgments
-
-This project demonstrates how **well-structured SQL** and **business-focused data analysis** can transform raw data into concrete strategic decisions. The combination of analytical techniques (window functions, subqueries, aggregations) with domain knowledge (credit risk, financial ratios) is what differentiates descriptive analysis from actionable analysis.
-
+----------------------------------------------------------------------------------------------------------------------------------
