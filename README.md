@@ -247,10 +247,11 @@ Based on loan-to-income ratio thresholds:
 - **Action:** Customize underwriting criteria per loan intent category
 
 --------------------------------------------------------------------------------------------------------------------------
-
-## License
+##  License
 
 This project is available for educational and portfolio purposes.
+
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 ##  Acknowledgments
