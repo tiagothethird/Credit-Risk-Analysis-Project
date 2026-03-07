@@ -65,16 +65,15 @@ The analysis shows a **clear risk-pricing relationship** across loan grades A th
 
 ### 2️⃣ Top 10 Borrowers with Longest Credit History Who Defaulted
 
-**Analysis Summary:**
-
 This segment challenges the conventional wisdom that **credit history length = creditworthiness**. Among defaulted borrowers, the top 10 have credit histories ranging from 15 to 30+ years, yet still failed to repay.
 
-**Critical Insights:**
+### **Critical Insights:**
+
 - **Experience ≠ Reliability:** Long credit history alone is an insufficient predictor of repayment
 - **Life Events Matter:** Extended credit histories may not reflect recent financial disruptions (job loss, medical emergencies, business failures)
 - **Model Weakness:** Credit scoring systems heavily weighted toward history length may miss real-time risk signals
 
-**What This Means for Risk Models:**
+### **What This Means for Risk Models:**
 
 Traditional scoring models need augmentation with:
 - **Recent payment velocity** - Changes in payment patterns over the last 6-12 months
@@ -82,7 +81,7 @@ Traditional scoring models need augmentation with:
 - **Debt-to-income trajectory** - Rising leverage despite long history
 - **Behavioral triggers** - New credit seeking, missed payments, balance increases
 
-**Actionable Recommendation:** Implement **dynamic risk scoring** that weights recent behavior (last 12-24 months) more heavily than distant credit history, especially for borrowers with 10+ year histories.
+## **Actionable Recommendation:** Implement **dynamic risk scoring** that weights recent behavior (last 12-24 months) more heavily than distant credit history, especially for borrowers with 10+ year histories.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
