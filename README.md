@@ -32,7 +32,7 @@ This analysis addresses five critical business questions that drive credit risk 
 
 --------------------------------------------------------------------------------------------------------------
 
-##  Key Findings & Insights
+## 📊 Key Findings & Visualizations
 
 ### 1️⃣ Average Loan Amount and Interest Rate by Risk Grade
 
@@ -221,7 +221,7 @@ Based on loan-to-income ratio thresholds:
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
-##  Executive Summary: Key Insights
+## 🔑 Executive Summary: Key Insights
 
 ###  For Risk Management
 
@@ -247,13 +247,13 @@ Based on loan-to-income ratio thresholds:
 - **Action:** Customize underwriting criteria per loan intent category
 
 --------------------------------------------------------------------------------------------------------------------------
-##  License
+## 📄 License
 
 This project is available for educational and portfolio purposes.
 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-##  Acknowledgments
+## 🙏 Acknowledgments
 
 This analysis transforms raw data into actionable intelligence, demonstrating how **data-driven decision-making** enhances credit risk management. The combination of technical skills (SQL & visualization) with domain knowledge (credit risk, financial analysis) creates insights that drive real business value.
