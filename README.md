@@ -32,7 +32,7 @@ This analysis addresses five critical business questions that drive credit risk 
 
 --------------------------------------------------------------------------------------------------------------
 
-## 📊 Key Findings & Insights
+##  Key Findings & Insights
 
 ### 1️⃣ Average Loan Amount and Interest Rate by Risk Grade
 
@@ -153,10 +153,10 @@ The analysis reveals distinct borrowing patterns across six primary loan intents
 The donut chart reveals how **home ownership status correlates with debt capacity:**
 
 **Distribution Breakdown:**
-- 🏠 **RENT:** 54.56% 
-- 🏡 **MORTGAGE:** 36.73%  
-- 💰 **OWN:** 8.35% 
-- 🏘️ **OTHER:** 0.36% 
+-  **RENT:** 54.56% 
+-  **MORTGAGE:** 36.73%  
+-  **OWN:** 8.35% 
+-  **OTHER:** 0.36% 
 
 
 
@@ -219,3 +219,40 @@ Based on loan-to-income ratio thresholds:
 - **Common Causes:** Emergency loans, income reduction post-approval, optimistic income projections
 
 ----------------------------------------------------------------------------------------------------------------------------------
+
+
+##  Executive Summary: Key Insights
+
+###  For Risk Management
+
+**1. Risk-Based Pricing Works (But Needs Refinement)**
+- Clear correlation between risk grades and interest rates (7% → 20%)
+- Higher-risk borrowers receive larger loans, creating concentration risk
+- **Action:** Consider loan amount caps for grades F-G to limit exposure
+
+**2. Credit History Alone is Insufficient**
+- Long credit histories don't prevent default
+- Need multidimensional scoring incorporating recent behavior
+- **Action:** Implement dynamic scoring that weights recent 12-24 months heavily
+
+**3. Young Demographic = Growth Opportunity + Volatility**
+- Average borrower age of 27.7 years indicates career-building phase
+- This cohort has income growth potential but current instability
+- **Action:** Develop graduated limit increases tied to employment tenure
+
+**4. Intent-Based Risk Varies Dramatically**
+- Venture loans: Highest amounts, highest risk
+- Medical loans: Moderate amounts, moderate risk
+- Education loans: Future earnings bet
+- **Action:** Customize underwriting criteria per loan intent category
+
+--------------------------------------------------------------------------------------------------------------------------
+
+## License
+
+This project is available for educational and portfolio purposes.
+------------------------------------------------------------------------------------------------------------------------------
+
+##  Acknowledgments
+
+This analysis transforms raw data into actionable intelligence, demonstrating how **data-driven decision-making** enhances credit risk management. The combination of technical skills (SQL & visualization) with domain knowledge (credit risk, financial analysis) creates insights that drive real business value.
