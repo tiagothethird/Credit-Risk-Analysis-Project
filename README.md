@@ -189,7 +189,7 @@ The donut chart reveals how **home ownership status correlates with debt capacit
 
 ## 6️⃣ Risk Categorization Based on Loan-to-Income Ratio
 
-**Portfolio Risk Distribution:**
+
 
 Based on loan-to-income ratio thresholds:
 - 🟢 **Low Risk (≤25%):** 22,568 borrowers (78.8%)
