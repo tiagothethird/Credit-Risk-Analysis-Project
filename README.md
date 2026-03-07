@@ -32,14 +32,13 @@ This analysis addresses five critical business questions that drive credit risk 
 
 --------------------------------------------------------------------------------------------------------------
 
-## 📊 Key Findings & Visualizations
+## 📊 Key Findings & Insights
 
 ### 1️⃣ Average Loan Amount and Interest Rate by Risk Grade
 
+
 <img width="654" height="546" alt="Average funded loan amount and interest rate by risk grade" src="https://github.com/user-attachments/assets/208c8387-2395-4810-aa33-6def3e8044b9" />
 
-
-**What the data reveals:**
 
 The analysis shows a **clear risk-pricing relationship** across loan grades A through G:
 
@@ -53,7 +52,8 @@ The analysis shows a **clear risk-pricing relationship** across loan grades A th
 | **F** | ~$14,700 | ~19% | High |
 | **G** | ~$17,200 | ~20% | Highest |
 
-**Key Insights:**
+# **Key Insights:**
+
 - **Progressive Risk Premium:** Interest rates nearly **triple** from Grade A (7%) to Grade G (20%), reflecting appropriate risk compensation
 - **Counterintuitive Pattern:** Higher-risk borrowers receive **larger loan amounts** (~$17K for Grade G vs ~$8.5K for Grade A)
 - **Business Strategy:** Lenders offset increased default risk with substantially higher rates rather than reducing loan sizes
