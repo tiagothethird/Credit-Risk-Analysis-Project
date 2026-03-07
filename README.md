@@ -52,7 +52,7 @@ The analysis shows a **clear risk-pricing relationship** across loan grades A th
 | **F** | ~$14,700 | ~19% | High |
 | **G** | ~$17,200 | ~20% | Highest |
 
-## **Key Insights:**
+### **Key Insights:**
 
 - **Progressive Risk Premium:** Interest rates nearly **triple** from Grade A (7%) to Grade G (20%), reflecting appropriate risk compensation
 - **Counterintuitive Pattern:** Higher-risk borrowers receive **larger loan amounts** (~$17K for Grade G vs ~$8.5K for Grade A)
