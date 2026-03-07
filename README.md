@@ -81,7 +81,7 @@ Traditional scoring models need augmentation with:
 - **Debt-to-income trajectory** - Rising leverage despite long history
 - **Behavioral triggers** - New credit seeking, missed payments, balance increases
 
-## **Actionable Recommendation:** Implement **dynamic risk scoring** that weights recent behavior (last 12-24 months) more heavily than distant credit history, especially for borrowers with 10+ year histories.
+ **Actionable Recommendation:** Implement **dynamic risk scoring** that weights recent behavior (last 12-24 months) more heavily than distant credit history, especially for borrowers with 10+ year histories.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -90,8 +90,6 @@ Traditional scoring models need augmentation with:
 <img width="721" height="368" alt="Total Loan Amount by Person Age" src="https://github.com/user-attachments/assets/a312ca00-de5e-46e5-80e6-7af7948c6303" />
 
 
-**Demographic Analysis:**
-
 The dataset shows a **concentrated young borrower base**:
 
 - **Peak Borrowing Age:** 25-30 years (highest loan volume)
@@ -99,7 +97,7 @@ The dataset shows a **concentrated young borrower base**:
 - **Age Distribution:** Heavily skewed toward millennials and early Gen Z
 - **Outliers Present:** Some borrowers up to age 80, indicating diverse portfolio
 
-**Age-Related Insights:**
+
 
 **Why Younger Borrowers Dominate:**
 - Early career financing needs (education, first home, transportation)
@@ -118,11 +116,9 @@ The dataset shows a **concentrated young borrower base**:
 
 ### 4️⃣ Top 5 Highest Loan Amounts per Intent Category
 
-**Segmentation Analysis by Loan Purpose:**
 
 The analysis reveals distinct borrowing patterns across six primary loan intents, with the top 5 borrowers per category showing:
 
-**By Loan Intent Category:**
 
 | Intent Category | Top Loan Range | Typical Income Range | Common Risk Grade |
 |-----------------|----------------|----------------------|-------------------|
@@ -133,14 +129,14 @@ The analysis reveals distinct borrowing patterns across six primary loan intents
 | **PERSONAL** | $18,000 - $28,000 | $60K - $100K | C - E |
 | **VENTURE** | $30,000 - $35,000 | $100K - $200K | D - F |
 
-**Critical Findings:**
+ ### **Critical Findings:**
 
 1. **Debt Consolidation Dominates:** Consistently shows highest individual loan amounts, indicating borrowers refinancing multiple obligations
 2. **Venture Loans = Highest Risk:** Business/entrepreneurial loans command premium amounts but also highest grades (D-F)
 3. **Medical Loans Underserved:** Despite critical need, medical loans show lower amounts, suggesting potential market gap
 4. **Income Correlation Varies:** Education loans show weaker income correlation, likely due to future earnings potential consideration
 
-**Business Applications:**
+### **Business Applications:**
 
 - **Targeted Marketing:** Different messaging and product features per intent category
 - **Risk-Adjusted Pricing:** Venture and debt consolidation loans warrant higher rates and stricter underwriting
@@ -154,8 +150,6 @@ The analysis reveals distinct borrowing patterns across six primary loan intents
 <img width="689" height="379" alt="Debt-to-income Distribution by Home Ownership" src="https://github.com/user-attachments/assets/1df3726f-5edd-4816-864b-4f26e2171d03" />
 
 
-**Home Ownership as Risk Indicator:**
-
 The donut chart reveals how **home ownership status correlates with debt capacity:**
 
 **Distribution Breakdown:**
@@ -164,7 +158,7 @@ The donut chart reveals how **home ownership status correlates with debt capacit
 - 💰 **OWN:** 8.35% 
 - 🏘️ **OTHER:** 0.36% 
 
-**Risk Profile Analysis:**
+
 
 **RENT (54.56%) - Flexibility with Higher Risk:**
 - **Pros:** More disposable income (no mortgage), flexible relocation
@@ -184,7 +178,7 @@ The donut chart reveals how **home ownership status correlates with debt capacit
 - **Risk Factor:** Lowest - strong financial position
 - **Strategy:** Upsell opportunities for larger loans at competitive rates
 
-**Strategic Implications:**
+ ### **Strategic Implications:**
 
 1. **Pricing Differentiation:** Homeowners (MORTGAGE + OWN = 30.17%) could qualify for rate reductions due to lower risk
 2. **Product Customization:** Renters might benefit from shorter-term, smaller loans to preserve flexibility
